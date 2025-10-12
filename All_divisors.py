@@ -1,4 +1,4 @@
-# using for loop finding all divisors of a given number.
+# Using for loop finding all divisors of a given number.
 
 n = int(input("Enter number: "))
 for i in range(1, n+1):
