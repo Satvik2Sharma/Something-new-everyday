@@ -1,4 +1,4 @@
-# Finding length of a string using for' loop.
+# Finding length of a string using 'for' loop.
 
 s = input("Enter string: ")
 count = 0
