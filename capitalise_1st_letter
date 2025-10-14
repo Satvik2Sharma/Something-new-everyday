@@ -1,4 +1,4 @@
-# using title() method to capitalise first letter of each word in a sentence.
+# Using title() method to capitalise first letter of each word in a sentence.
 
 s = input("Enter sentence: ")
 s1 = s.title()
