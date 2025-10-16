@@ -2,7 +2,7 @@ S = input("Enter a string: ")
 
 vowels = ('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U')
 
-# sing For loop , lower() method to determine the vowels.
+# Using For loop , lower() method to determine the vowels.
 
 result = S # Initialize result with the original string.
 
