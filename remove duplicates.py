@@ -1,4 +1,4 @@
- Using for loop and append() method.
+# Using for loop and append() method.
 # To remove duplicates from a list without using sets.
 
 
