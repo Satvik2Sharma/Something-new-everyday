@@ -1,4 +1,4 @@
-s = nput("Enter the numbers separated by spaces: ")
+s = input("Enter the numbers separated by spaces: ")
 
 # Split the input string into a list of strings and convert each string to an integer using map.
 
