@@ -1,4 +1,4 @@
-# Getting input string of numbers separated by spaces from the user and convert to a list of integers.
+ Getting input string of numbers separated by spaces from the user and convert to a list of integers.
 alist = list(map(int, input("Enter list: ").split()))
 
 # Converting the list to a set to remove duplicates, then convert back to a list.
