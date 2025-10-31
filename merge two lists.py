@@ -1,4 +1,4 @@
-# Gtting input strings of numbers separated by spaces for two lists and convert them to lists of integers.
+# Getting input strings of numbers separated by spaces for two lists and convert them to lists of integers.
 a = list(map(int, input("Enter list1: ").split()))
 b = list(map(int, input("Enter list2: ").split()))
 
