@@ -1,4 +1,4 @@
-# Get input string from the user and split it into a list of strings
+# Gt input string from the user and split it into a list of strings
 a = input("Enter elements separated by spaces: ").split()
 
 # Reversing the list using slicing
