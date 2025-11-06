@@ -8,3 +8,7 @@ print("Last two elements of the list my_list are:", my_list[4:6])
 
 # Using negative indexing to print the first and last elements of my_list.
 print("First element and last elements:", my_list[-6], my_list[-1])
+
+# Adding the element 25 to the end of the list using append(). Print the updated list.
+my_list.append(25)
+print("After adding element 25 to the end of the my_list:", my_list)
