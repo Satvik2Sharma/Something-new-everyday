@@ -12,3 +12,11 @@ print("First element and last elements:", my_list[-6], my_list[-1])
 # Adding the element 25 to the end of the list using append(). Print the updated list.
 my_list.append(25)
 print("After adding element 25 to the end of the my_list:", my_list)
+
+# Adding multiple elements to my_list using extend().
+my_list.extend([70, 80, 90])
+print("After extending 60, 70 and 80:", my_list)
+
+# Inserting the value 15 at index 2 in my_list using insert().
+my_list.insert(2, 15)
+print("After inserting 15 at index 2 in my_list:", my_list)
