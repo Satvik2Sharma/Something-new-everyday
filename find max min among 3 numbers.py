@@ -1,6 +1,6 @@
 # Write a program to find the maximum and minimum of three numbers using nested if-else.
 
-
+ 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))
